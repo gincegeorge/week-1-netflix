@@ -66,7 +66,7 @@ header {
 }
 /* Hero banner */
 .hero-banner {
-    background-image: url(/netflix/assets/banner.jpg);
+    background-image: url(/week-1-netflix/assets/banner.jpg);
     height: 100vh;
     position: relative;
     display: flex;
@@ -128,7 +128,7 @@ header {
     width: 15px;
     height: 24px;
     right: 40px;
-    background-image: url(/netflix/assets/chevron-right.png);
+    background-image: url(/week-1-netflix/assets/chevron-right.png);
     top: 50%;
     transform: translateY(-50%);
     transition: ease-in .3s;
